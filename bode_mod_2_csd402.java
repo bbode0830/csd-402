@@ -16,7 +16,7 @@
 
 import java.util.Scanner;
 
-public class weekTwo402 {
+public class bode_mod_2_csd402 {
 
     public static void main(String[] args) {
         //assign variable to hold player's value
